@@ -26,7 +26,7 @@ public class RestapiApplication implements CommandLineRunner {
 
 		Campaign testCampaign = new Campaign();
 		testCampaign.setCampaignName("Clear Channel");
-		testCampaign.setClient("Baloon Emporium");
+		testCampaign.setClient("Balloon Emporium");
 		testCampaign.setStartDate("01/01/2019");
 		testCampaign.setEndDate("02/02/2019");
 		testCampaign.setStatus("APPROVED");
